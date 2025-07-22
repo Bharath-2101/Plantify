@@ -31,7 +31,7 @@ Plantify is a beautiful and intuitive **React Native mobile application** that b
 Explore the app in action!
 
 > **Screenshots:**  
-> <img src="/assets/demo/home.png" width="200" /> <img src="assets/screenshots/details.png" width="200" />  
+> <img src="assets/demo/Onboarding.png" width="200" /> <img src="assets/demo/Home.png" width="200" /> <img src="assets/demo/AddtoCart.png" width="200" />  <img src="assets/demo/Favourites.png" width="200" /> <img src="assets/demo/Cart.png" width="200" />
 > _(Include screenshots of key screens in the `/assets/demo/` folder)_
 
 ---
