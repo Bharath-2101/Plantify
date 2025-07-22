@@ -1,12 +1,11 @@
 {
   "expo": {
-    "name": "LandingPage",
-    "slug": "LandingPage",
+    "name": "Plantify",
+    "slug": "Plantify",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-
     "ios": {
       "supportsTablet": true
     },
@@ -15,6 +14,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a239108e-5cec-4906-8cb6-a57773f8ea72"
+      }
+    },
+    "owner": "bharath_kumar_143",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a239108e-5cec-4906-8cb6-a57773f8ea72"
     }
   }
 }
