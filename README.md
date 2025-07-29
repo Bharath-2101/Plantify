@@ -12,7 +12,7 @@ Plantify is a beautiful and intuitive **React Native mobile application** that b
 
 > ```bash
 > # Clone the repository
-> git clone https://github.com/your-username/plantify.git
+> git clone https://github.com/Bharath-2101/Plantify.git
 >
 > # Navigate into the project directory
 > cd plantify
